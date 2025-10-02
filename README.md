@@ -1,4 +1,5 @@
 # DestructiveJSON
+![DestructiveJSON](destructivejson.png)
 
 ## Overview
 
